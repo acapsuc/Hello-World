@@ -1,2 +1,2 @@
 # Hello-World
-Starting project to familiarize with basic GitHub features
+This is a dummy project created with intention to become familiar with basic operations in GitHub.
